@@ -41,5 +41,6 @@ file2.write(line)
 ![image](https://github.com/kannan-nagaraju/copy-file/assets/145742755/989e36a8-b72b-4832-9bcb-0f1671c761b0)
 
 
+
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
